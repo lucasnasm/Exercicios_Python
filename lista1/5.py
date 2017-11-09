@@ -1,9 +1,8 @@
 # @Author: Francisco Lucas <lucas>
 # @Date:   2017-11-09T01:55:00-03:00
-# @Project: Disciplina: Algoritmos e Programação I
 # @Filename: 5.py
 # @Last modified by:   lucas
-# @Last modified time: 2017-11-09T02:03:04-03:00
+# @Last modified time: 2017-11-09T03:03:35-03:00
 
 pesoPaciente = input("Informe o peso: ")
 idadePaciente = input("Informe a idade: ")

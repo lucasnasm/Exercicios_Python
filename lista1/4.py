@@ -1,9 +1,8 @@
 # @Author: Francisco Lucas <lucas>
 # @Date:   2017-11-08T02:32:24-03:00
-# @Project: Disciplina: Algoritmos e Programação I
 # @Filename: 4.py
 # @Last modified by:   lucas
-# @Last modified time: 2017-11-09T02:02:57-03:00
+# @Last modified time: 2017-11-09T03:03:29-03:00
 
 saldo = input("Informe o saldo disponivel para viajar: ")
 dias = input("Informe a quantidade de dias: ")

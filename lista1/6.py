@@ -1,9 +1,8 @@
 # @Author: Francisco Lucas <lucas>
 # @Date:   2017-11-08T19:39:03-03:00
-# @Project: Disciplina: Algoritmos e Programação I
 # @Filename: 6.py
 # @Last modified by:   lucas
-# @Last modified time: 2017-11-09T02:37:58-03:00
+# @Last modified time: 2017-11-09T03:03:40-03:00
 
 salAtual = float(input("Informe o salario atual: "))
 if (salAtual <= 280):
